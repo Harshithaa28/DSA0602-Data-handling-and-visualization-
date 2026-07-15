@@ -1,0 +1,511 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 3268
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 790.8663779527558972 Td
+(                                                        DSA0602-Data Handling And Visualization) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 765.9214960629921052 Td
+(                                                                                Class Activity) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 740.9766141732283131 Td
+(Name: Nanabala Harshitha) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 716.0317322834645211 Td
+(Reg.no:192324261) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 691.0868503937008427 Td
+(Mapping Colours:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 666.1419685039370506 Td
+(Code:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 641.1970866141732586 Td
+(Ggplot\(mtcars,aees\(x=wt,y=mpg,colours=factor\(cyl\)\)\)+geom_point+size=3\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 616.2522047244093528 Td
+(Output:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 541.417559055117863 Td
+(Continous \(hp\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 516.4726771653540709 Td
+(Code:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 491.5277952755903357 Td
+(ggplot\(mtcars,aes\(wt,mpg,size=hp\)\)+geom_point+\(alpha=0.6\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 466.5829133858265436 Td
+(Output:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 391.7482677165351106 Td
+(Modifiy scales colour:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 366.8033858267712617 Td
+(Code:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 341.8585039370074696 Td
+(ggplot\(mtcars,aes\(wt,mpg,colour=hp\)\)+geom_point+\(size=3\)+scale_colour_grandient\(low=”blue”,high) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 329.3860629921255168 Td
+(=”red”\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 304.4411811023617247 Td
+(Output: ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 254.5514173228341406 Td
+(Custom breaks:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 229.6065354330703485 Td
+(Code: ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 204.6616535433064428 Td
+(ggplot\(mtcars,aes\(wt,mpg,colour=hp\)\)+geom_point+\(\)+scale_x_continous\(breaks=seq\(1,6,1\)\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 179.7167716535426507 Td
+(Output:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 104.8821259842512745 Td
+(Non-linear axies:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 79.9372440944875962 Td
+(Code:) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 1955
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 790.8663779527558972 Td
+(ggplot\(mtcars,aes\(wt,mpg,colour=hp\)\)+geom_point+\(\)+scale_y_log10\(\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 765.9214960629921052 Td
+(Output:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 691.0868503937008427 Td
+(Polar cooridinates:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 666.1419685039370506 Td
+(Code:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 641.1970866141732586 Td
+(ggplot\(mtcars,aes\(x = factor\(cyl\)\)\)+geom_bar\(\)+coord_polar\(\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 616.2522047244093528 Td
+(Output:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 566.3624409448817687 Td
+(Sequential colour:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 541.417559055117863 Td
+(Code:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 516.4726771653540709 Td
+(ggplot\(mtcars,aes\(wt,mpg,colour=hp\)\)+geom_point\(size=3\)+scale_colour_viridis_c\(\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 491.5277952755903357 Td
+(Output:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 466.5829133858265436 Td
+(Histogram:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 441.6380314960627516 Td
+(Code:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 416.6931496062989027 Td
+(ggplot\(mtcars,aes\(mpg\)\)+geom_histogram\(binwidth=2,fill="orange"\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.102 0.094 0.078 rg
+51.0236220472441033 391.7482677165351106 Td
+(output:) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20260715071456+05'30')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000005616 00000 n 
+0000007441 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000003472 00000 n 
+0000003609 00000 n 
+0000005679 00000 n 
+0000005804 00000 n 
+0000005934 00000 n 
+0000006067 00000 n 
+0000006205 00000 n 
+0000006329 00000 n 
+0000006458 00000 n 
+0000006590 00000 n 
+0000006726 00000 n 
+0000006854 00000 n 
+0000006981 00000 n 
+0000007110 00000 n 
+0000007243 00000 n 
+0000007345 00000 n 
+0000007691 00000 n 
+0000007777 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <E55C118EB71C87BE32678A73965A0C50> <E55C118EB71C87BE32678A73965A0C50> ]
+>>
+startxref
+7881
+%%EOF
